@@ -1,2 +1,2 @@
-# airportManagementSystem
+# Airport Management System
 This project simulates the process of documenting and creating software for a client. The objective was to create an airport management system with data structures, which was accomplished after research and modeling the system using diagrams. The program was broken into a driver and multiple implementation files. The program was tested using data from a spreadsheet for accurateness.
